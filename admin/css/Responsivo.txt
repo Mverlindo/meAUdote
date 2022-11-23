@@ -1,0 +1,64 @@
+
+@media (min-width: 768px) {
+  body
+ {
+  font-family: 'Raleway', sans-serif;
+ /* background-image: url('../images/fundo_desfocado.png');*/
+ background-color: #d2d2d2;
+  background-repeat: no-repeat;
+  background-size:100%;
+  bottom: 0;
+  color: black;
+  left: 0;
+  overflow: auto;
+  padding: 3em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  background-size: cover;
+ 
+ }
+ }
+ 
+ @media (min-width: 992px) {
+ body{
+  font-family: 'Raleway', sans-serif;
+  /*background-image: url('../images/fundo_desfocado.png');*/
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size:100%;
+  bottom: 0;
+  color: black;
+  left: 0;
+  overflow: auto;
+  padding: 3em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  background-size: cover;
+ 
+ }
+ }
+ 
+ @media (min-width: 1200px) {
+ body{
+  font-family: 'Raleway', sans-serif;
+  /*background-image: url('../images/fundo_desfocado.png');*/
+  background-color: aqua;
+  background-repeat: no-repeat;
+  background-size:100%;
+  bottom: 0;
+  color: black;
+  left: 0;
+  overflow: auto;
+  padding: 3em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  background-size: cover;
+ 
+ 
+ }
